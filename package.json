@@ -1,0 +1,20 @@
+{
+  "name": "critical-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve",
+    "critical": "node critical.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "devDependencies": {
+    "critical": "^3.0.1"
+  }
+}
